@@ -10,6 +10,10 @@ const teamMembers = [
     wish: "✨ Wishing Subha and family a bright, joyful, and prosperous Diwali."
   },
   {
+    name: "Suganthi",
+    wish: "✨ Wishing you Suganthi and your family a bright, joyful, and prosperous Diwali my friend."
+  },
+  {
     name: "MOHANA SUNDARAM",
     wish: "🎆 Happy Diwali to Mohana Sundaram and family! May this festival bring great success and happiness."
   },
